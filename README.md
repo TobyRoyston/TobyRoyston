@@ -23,8 +23,10 @@ I’m a **Commerce / Business student** developing skills in **data analytics**,
 ## 🚀 Featured work
 Here are a few things I’m building (more coming soon):
 
-- **Mini Projects Collection** | small coding exercises + learning projects *(Python / Colab)*
-  - https://github.com/TobyRoyston/Week_1_Workshop_Code
+- **Week 1 Workshop Code** | small coding exercises + learning projects *(Python / Colab)*
+   - https://github.com/TobyRoyston/Week_1_Workshop_Code
+- **Week 2 Workshop Code** | control flow, loops, and conditional logic exercises *(Python / Colab)* 
+   - https://github.com/TobyRoyston/Week_2_Workshop_Code
 
 ---
 
