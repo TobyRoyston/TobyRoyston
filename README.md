@@ -24,7 +24,7 @@ I’m a **Commerce / Business student** developing skills in **data analytics**,
 Here are a few things I’m building (more coming soon):
 
 - **Mini Projects Collection** — small coding exercises + learning projects *(Python / Colab)*
-  - https://github.com/TobyRoyston/Python-Mini-Projects.git
+  - https://github.com/TobyRoyston/Week_1_Workshop_Code
 
 ---
 
