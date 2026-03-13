@@ -23,7 +23,7 @@ I’m a **Commerce / Business student** developing skills in **data analytics**,
 ## 🚀 Featured work
 Here are a few things I’m building (more coming soon):
 
-- **Mini Projects Collection** — small coding exercises + learning projects *(Python / Colab)*
+- **Mini Projects Collection** | small coding exercises + learning projects *(Python / Colab)*
   - https://github.com/TobyRoyston/Week_1_Workshop_Code
 
 ---
@@ -32,4 +32,4 @@ Here are a few things I’m building (more coming soon):
 LinkedIn: www.linkedin.com/in/toby-royston-941339303 | Email: toby.royston1@gmail.com
 
 ---
-⭐ If you’re here from LinkedIn — welcome! This page is a living portfolio as I keep building.
+⭐ If you’re here from LinkedIn, welcome! This page is a living portfolio as I keep building.
